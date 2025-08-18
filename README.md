@@ -49,8 +49,6 @@ Here are some ideas to get you started:
 🔹 [To-Do List App](#) – Aplikasi catatan tugas harian  
 🔹 [Mini Data Analysis](#) – Analisis data sederhana dengan Python  
 
-*(Pin project di GitHub agar muncul di depan profil)*  
-
 ---
 
 ## 🎵 Fun Fact  
