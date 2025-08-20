@@ -44,11 +44,10 @@ Here are some ideas to get you started:
 ---
 
 ## 📂 Project Pilihan  
-
-🔹 [Portfolio Website](#) – Website pribadi sederhana  
-🔹 [To-Do List App](#) – Aplikasi catatan tugas harian  
-🔹 [Mini Data Analysis](#) – Analisis data sederhana dengan Python  
-
+🔹 [Portfolio Website](https://github.com/ekaatmaja7/personal-portfolio) — Website pribadi statis (HTML/CSS). <!-- Live demo (aktifkan GitHub Pages dulu): https://ekaatmaja7.github.io/personal-portfolio -->
+🔹 [Weather Dashboard](https://github.com/ekaatmaja7/weather-dashboard) — Dashboard cuaca pakai Open-Meteo + Nominatim, tanpa API key. <!-- Live demo: https://ekaatmaja7.github.io/weather-dashboard -->
+🔹 [Mini Data Analysis](https://github.com/ekaatmaja7/mini-data-analysis) — EDA sederhana dengan pandas (jalankan lokal).
+🔹 [To-Do List App](https://github.com/ekaatmaja7/todo-list-app) — Skrip Python sederhana untuk catatan tugas.
 ---
 
 ## 🎵 Fun Fact  
